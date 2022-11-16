@@ -1,0 +1,21 @@
+Getting Started
+Display the text "Welcome to the world of Web development" on the screen
+
+Acceptance Criteria:
+- The text should be inside the div tag.
+- Add id=text for the div tag
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+
+    </head>
+    <body>
+        <div id="text">
+            Welcome to the world of Web development
+            </div>>
+            <em text-binding="class:myDiv">
+                </em>
+
+    </body>
+
